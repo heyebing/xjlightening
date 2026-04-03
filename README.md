@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>📘 西交闪学 · XJTU FlashLearn</h1>
+  <h1>📘 西交闪学 · XJTU Lightening</h1>
   <p><em>智能课堂记录 · AI随堂出题 · 学习资源传承</em></p>
   <p>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>

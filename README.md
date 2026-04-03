@@ -14,7 +14,7 @@
     <a href="#-技术栈">技术栈</a> •
     <a href="#-快速开始">快速开始</a> •
     <a href="#-项目结构">项目结构</a> •
-    <a href="#-团队">团队</a>
+    <a href="#-致谢">致谢</a>
   </p>
 </div>
 
@@ -88,6 +88,22 @@ pip install -r requirements.txt
 python app.py
 默认服务端地址 http://localhost:5000，请在客户端 config.gradle 中修改 BASE_URL。
 ```
+
+## 📁 项目结构
+text
+xjtu-flashlearn/  
+
+├── client/  # Android 客户端源码  
+│   ├── app/                 # 主模块 (笔记/考勤/课件/课表/AI出题)  
+│   └── README.md  
+├── server/                   # Flask 服务端  
+│   ├── app.py  
+│   ├── models.py  
+│   ├── requirements.txt  
+│   └── uploads/              # 课件与共享资源存储
+├── docs/                     # 设计文档、用户手册
+├── database/                 # SQL 建表脚本
+└── README.md  
 
 ## 大模型 API 由 讯飞星火 / DeepSeek 提供
 
